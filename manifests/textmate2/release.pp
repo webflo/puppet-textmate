@@ -2,7 +2,7 @@
 #
 # Examples
 #
-#   include textmate2::release
+#   include textmate::textmate2::release
 class textmate::textmate2::release inherits textmate::textmate2 {
   package { 'TextMate 2':
     source   => 'https://api.textmate.org/downloads/release',

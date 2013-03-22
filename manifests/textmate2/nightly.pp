@@ -2,7 +2,7 @@
 #
 # Examples
 #
-#   include textmate2::nightly
+#   include textmate::textmate2::nightly
 class textmate::textmate2::nightly inherits textmate::textmate2 {
   package { 'TextMate 2':
     source   => 'https://api.textmate.org/downloads/nightly',
