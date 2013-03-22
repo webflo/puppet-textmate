@@ -2,6 +2,6 @@
 #
 # Examples
 #
-#   include textmate
+#   include textmate::textmate2
 class textmate::textmate2 {
 }
